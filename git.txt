@@ -1,2 +1,3 @@
 Hello world
-this is first demo of git
+this is first demo of git.
+updating.....
