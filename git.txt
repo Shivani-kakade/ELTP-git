@@ -1,3 +1,3 @@
 Hello world
-this is first demo of git.
-updating.....
+this is first demo of git"!
+change to fix bug1
